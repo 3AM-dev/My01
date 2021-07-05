@@ -8,5 +8,6 @@ public class Main {
         System.out.println("hot-fix change2");
         System.out.println("push");
         System.out.println("push");
+        System.out.println("github change");
     }
 }
