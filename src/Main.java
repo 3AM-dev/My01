@@ -6,5 +6,6 @@ public class Main {
         System.out.println("mergr");
         System.out.println("master change");
         System.out.println("hot-fix change2");
+        System.out.println("push");
     }
 }
