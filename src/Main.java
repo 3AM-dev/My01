@@ -4,6 +4,6 @@ public class Main {
         System.out.println("第二次修改");
         System.out.println("hot-fix");
         System.out.println("mergr");
-        System.out.println("hot-fix change");
+        System.out.println("hot-fix change2");
     }
 }
